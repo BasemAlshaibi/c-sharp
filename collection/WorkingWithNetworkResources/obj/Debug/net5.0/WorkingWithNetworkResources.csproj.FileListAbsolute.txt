@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.exe
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.deps.json
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.runtimeconfig.json
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.dll
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\ref\WorkingWithNetworkResources.dll
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.pdb
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.AssemblyInfo.cs
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.dll
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\ref\WorkingWithNetworkResources.dll
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.pdb
+D:\Learn WEB\c sharp\collection\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.genruntimeconfig.cache

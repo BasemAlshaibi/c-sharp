@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PacktLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        }
+      },
+      "PacktLibrary9/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary9.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacktLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary/PacktLibrary.csproj",
+      "msbuildProject": "../PacktLibrary/PacktLibrary.csproj"
+    },
+    "PacktLibrary9/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary9/PacktLibrary9.csproj",
+      "msbuildProject": "../PacktLibrary9/PacktLibrary9.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PacktLibrary >= 1.0.0",
+      "PacktLibrary9 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Basem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Learn WEB\\c sharp\\oop\\PeopleApp\\PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "D:\\Learn WEB\\c sharp\\oop\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\Basem\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn WEB\\c sharp\\oop\\PeopleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Basem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Learn WEB\\c sharp\\oop\\PacktLibrary9\\PacktLibrary9.csproj": {
+              "projectPath": "D:\\Learn WEB\\c sharp\\oop\\PacktLibrary9\\PacktLibrary9.csproj"
+            },
+            "D:\\Learn WEB\\c sharp\\oop\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "D:\\Learn WEB\\c sharp\\oop\\PacktLibrary\\PacktLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

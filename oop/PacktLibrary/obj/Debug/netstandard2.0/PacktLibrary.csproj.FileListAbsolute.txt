@@ -1,0 +1,9 @@
+D:\Learn WEB\c sharp\oop\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\Learn WEB\c sharp\oop\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

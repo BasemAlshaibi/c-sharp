@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.exe
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.deps.json
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.json
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.dll
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.pdb
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.dll
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.pdb
+D:\Learn WEB\c sharp\publish\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.genruntimeconfig.cache

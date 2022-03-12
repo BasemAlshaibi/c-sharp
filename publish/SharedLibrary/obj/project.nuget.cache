@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "37fYCIP6KqUoUeBaemVdPB5Gzl/ModfjSQymGavbTBtQWhN2jalR0qeajrXEWWlyBusmuGwYRWpJsY2w5BYUXg==",
+  "success": true,
+  "projectFilePath": "D:\\Learn WEB\\c sharp\\publish\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Basem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Basem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

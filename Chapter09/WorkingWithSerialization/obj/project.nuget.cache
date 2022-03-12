@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uT7PCFgm35wH2+ISiQbMy8ZsZgXtj3EuDo+E1bp2pjJj1LeBKmYQwf3iLRDbmVuVi8Id6UVxWP4g7Q9lo8dvg==",
+  "success": true,
+  "projectFilePath": "D:\\Learn WEB\\c sharp\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Basem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

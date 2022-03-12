@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.exe
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.deps.json
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.dll
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\ref\WorkingWithFileSystems.dll
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.dll
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\ref\WorkingWithFileSystems.dll
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.genruntimeconfig.cache

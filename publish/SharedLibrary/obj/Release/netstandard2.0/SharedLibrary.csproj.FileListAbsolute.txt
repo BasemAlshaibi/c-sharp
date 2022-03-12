@@ -1,0 +1,9 @@
+D:\Learn WEB\c sharp\publish\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
+D:\Learn WEB\c sharp\publish\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
+D:\Learn WEB\c sharp\publish\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
+D:\Learn WEB\c sharp\publish\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

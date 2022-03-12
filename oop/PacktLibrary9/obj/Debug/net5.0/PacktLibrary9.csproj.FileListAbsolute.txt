@@ -1,0 +1,12 @@
+D:\Learn WEB\c sharp\oop\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.deps.json
+D:\Learn WEB\c sharp\oop\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary9\bin\Debug\net5.0\ref\PacktLibrary9.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.pdb
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfo.cs
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\ref\PacktLibrary9.dll
+D:\Learn WEB\c sharp\oop\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.pdb

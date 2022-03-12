@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfo.cs
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.exe
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.deps.json
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.json
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.dll
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\ref\Internationalization.dll
+D:\Learn WEB\c sharp\collection\Internationalization\bin\Debug\net5.0\Internationalization.pdb
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.dll
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\ref\Internationalization.dll
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.pdb
+D:\Learn WEB\c sharp\collection\Internationalization\obj\Debug\net5.0\Internationalization.genruntimeconfig.cache

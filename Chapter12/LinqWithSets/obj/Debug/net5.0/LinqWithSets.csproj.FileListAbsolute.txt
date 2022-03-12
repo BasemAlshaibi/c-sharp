@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+D:\Learn WEB\c sharp\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache

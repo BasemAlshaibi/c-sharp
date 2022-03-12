@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.exe
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.deps.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\ref\WorkWithDirectories.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\bin\Debug\net5.0\WorkWithDirectories.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\ref\WorkWithDirectories.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithDirectories\obj\Debug\net5.0\WorkWithDirectories.genruntimeconfig.cache

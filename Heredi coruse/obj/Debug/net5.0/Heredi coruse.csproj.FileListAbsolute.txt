@@ -1,0 +1,65 @@
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.exe
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.deps.json
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.runtimeconfig.json
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\ref\Heredi coruse.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Heredi coruse.pdb
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Humanizer.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learn WEB\c sharp\Heredi coruse\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.csproj.CopyComplete
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.dll
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\ref\Heredi coruse.dll
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.pdb
+D:\Learn WEB\c sharp\Heredi coruse\obj\Debug\net5.0\Heredi coruse.genruntimeconfig.cache

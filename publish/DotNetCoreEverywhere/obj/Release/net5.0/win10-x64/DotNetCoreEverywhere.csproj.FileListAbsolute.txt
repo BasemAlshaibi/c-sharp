@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.exe
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.deps.json
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.runtimeconfig.json
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.dll
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\ref\DotNetCoreEverywhere.dll
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.pdb
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.AssemblyInfo.cs
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.dll
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\ref\DotNetCoreEverywhere.dll
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.pdb
+D:\Learn WEB\c sharp\publish\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.genruntimeconfig.cache

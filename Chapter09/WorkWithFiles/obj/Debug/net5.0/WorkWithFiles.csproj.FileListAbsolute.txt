@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.exe
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.deps.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\ref\WorkWithFiles.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\bin\Debug\net5.0\WorkWithFiles.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\ref\WorkWithFiles.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithFiles\obj\Debug\net5.0\WorkWithFiles.genruntimeconfig.cache

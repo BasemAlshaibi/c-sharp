@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.exe
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.deps.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\ref\LinqWithObjects.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.pdb
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\ref\LinqWithObjects.dll
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.pdb
+D:\Learn WEB\c sharp\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.genruntimeconfig.cache

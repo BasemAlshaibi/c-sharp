@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfo.cs
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.exe
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.deps.json
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.json
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.dll
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\ref\WorkingWithLists.dll
+D:\Learn WEB\c sharp\collection\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.pdb
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.dll
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\ref\WorkingWithLists.dll
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.pdb
+D:\Learn WEB\c sharp\collection\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.genruntimeconfig.cache

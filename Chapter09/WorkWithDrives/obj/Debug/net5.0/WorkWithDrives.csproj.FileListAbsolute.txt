@@ -1,0 +1,16 @@
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.csprojAssemblyReference.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.AssemblyInfoInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.AssemblyInfo.cs
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.csproj.CoreCompileInputs.cache
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.exe
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.deps.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.runtimeconfig.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.runtimeconfig.dev.json
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\ref\WorkWithDrives.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\bin\Debug\net5.0\WorkWithDrives.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\ref\WorkWithDrives.dll
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.pdb
+D:\Learn WEB\c sharp\Chapter09\WorkWithDrives\obj\Debug\net5.0\WorkWithDrives.genruntimeconfig.cache
